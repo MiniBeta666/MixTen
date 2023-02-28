@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Dev TP", "DarkTheme")
+local Window = Library.CreateLib("Dev TP", "BloodTheme")
 local Tab = Window:NewTab("Player")
 local Section = Tab:NewSection("Select Player!")
 Plr = {}
