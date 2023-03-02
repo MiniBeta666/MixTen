@@ -159,7 +159,7 @@ local Dropdown = Tab:CreateDropdown({
 ```lua
 Dropdown:Set("Option 2") -- The new option value
 ```
-#Binds
+# Binds
 ## Creating A KeyBind
 ```lua
 local Keybind = Tab:CreateKeybind({
